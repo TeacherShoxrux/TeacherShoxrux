@@ -272,3 +272,7 @@ Here are some ideas to get you started:
 </div>  
 <img src="https://raw.githubusercontent.com/TeacherShoxrux/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
+<p align="center">
+<a href="https://wakatime.com/@TeacherShoxrux"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=TeacherShoxrux&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@TeacherShoxrux's wakatime stats"/></a>
+<a href="https://github.com/TeacherShoxrux?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@TeacherShoxrux's trophy stats"/></a>
+</p>
